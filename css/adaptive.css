@@ -1,0 +1,15 @@
+
+
+@media(max-width:1300px) {
+    .row {
+        flex-direction: column-reverse;
+        row-gap: 50px;
+    }
+}
+
+@media(max-width:600px){
+    label{
+        width: 100%;
+        text-align: center;
+    }
+}
